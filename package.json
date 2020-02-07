@@ -1,0 +1,8 @@
+{
+  "name": "docker-mariadb",
+  "scripts": {
+    "macos": "./macOS.build.sh"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
